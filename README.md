@@ -2,6 +2,10 @@
 
 A collection of my dumb ass Twitter memes. Make PRs to fix descriptions, update data, etc.
 
+* Row types as a school subject
+
+https://twitter.com/jusrin00/status/982705343917645824
+
 * Kirby teaches you to struggle to your death
 
 https://twitter.com/jusrin00/status/981663513843249152
