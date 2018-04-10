@@ -2,6 +2,14 @@
 
 A collection of my dumb ass Twitter memes. Make PRs to fix descriptions, update data, etc.
 
+* RowToList key
+
+https://twitter.com/jusrin00/status/983702858435629056
+
+* Bullshit diagram of my twitter content
+
+https://twitter.com/jusrin00/status/983363543461433345
+
 * Row types as a school subject
 
 https://twitter.com/jusrin00/status/982705343917645824
