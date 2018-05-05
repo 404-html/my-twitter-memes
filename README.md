@@ -2,6 +2,26 @@
 
 A collection of my dumb ass Twitter memes. Make PRs to fix descriptions, update data, etc.
 
+### TypeScripters: "is this a dependent type?"
+
+https://twitter.com/jusrin00/status/992473996150091777
+
+### I write PureScript a lot
+
+https://twitter.com/jusrin00/status/985596999998328832
+
+### Playing the row type flute
+
+https://twitter.com/jusrin00/status/984788803218034688
+
+### Haskeller vs enlightened PureScripter
+
+https://twitter.com/jusrin00/status/984526019137888256
+
+### When a Haskeller tries to remind me PureScript isn't polykinded
+
+https://twitter.com/jusrin00/status/984198379256369152
+
 ### RowToList key
 
 https://twitter.com/jusrin00/status/983702858435629056
