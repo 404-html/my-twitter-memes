@@ -2,6 +2,10 @@
 
 A collection of my dumb ass Twitter memes. Make PRs to fix descriptions, update data, etc.
 
+### When people think type classes are "easy"
+
+https://twitter.com/jusrin00/status/999594341797695488
+
 ### TypeScripters love "type-level programming"
 
 https://twitter.com/jusrin00/status/998323741598896128
