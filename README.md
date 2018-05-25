@@ -2,6 +2,10 @@
 
 A collection of my dumb ass Twitter memes. Make PRs to fix descriptions, update data, etc.
 
+### Raise your hands for PureScript 0.12
+
+https://twitter.com/jusrin00/status/999779229544873985
+
 ### When people think type classes are "easy"
 
 https://twitter.com/jusrin00/status/999594341797695488
