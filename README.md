@@ -6,6 +6,14 @@ A collection of my dumb ass Twitter memes. Make PRs to fix descriptions, update 
 
 https://twitter.com/jusrin00/status/1006942505668153350
 
+### TypeScript is fucking soap shavings
+
+https://twitter.com/jusrin00/status/1004037117687816192
+
+### I crave the type level
+
+https://twitter.com/jusrin00/status/1002846156307812352
+
 ### Raise your hands for PureScript 0.12
 
 https://twitter.com/jusrin00/status/999779229544873985
