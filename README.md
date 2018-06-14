@@ -2,6 +2,10 @@
 
 A collection of my dumb ass Twitter memes. Make PRs to fix descriptions, update data, etc.
 
+### Leave me be, FP ivory tower scum
+
+https://twitter.com/jusrin00/status/1006942505668153350
+
 ### Raise your hands for PureScript 0.12
 
 https://twitter.com/jusrin00/status/999779229544873985
