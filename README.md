@@ -2,6 +2,10 @@
 
 A collection of my dumb ass Twitter memes. Make PRs to fix descriptions, update data, etc.
 
+### Me at Haskell conversations
+
+https://twitter.com/jusrin00/status/1008102084594585602
+
 ### Leave me be, FP ivory tower scum
 
 https://twitter.com/jusrin00/status/1006942505668153350
