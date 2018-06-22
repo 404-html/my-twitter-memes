@@ -2,6 +2,26 @@
 
 A collection of my dumb ass Twitter memes. Make PRs to fix descriptions, update data, etc.
 
+### You could do that with PureScript
+
+https://twitter.com/jusrin00/status/1009847634301988865
+
+### Haskell Beginners vs Servant
+
+https://twitter.com/jusrin00/status/1009340298164625408
+
+### I came here thinking this was Haskell for noobs
+
+https://twitter.com/jusrin00/status/1009168120546824193
+
+### If QuasiQuoting is wrong, I don't wanna be right
+
+https://twitter.com/jusrin00/status/1008736177439019009
+
+### Righteous PureScripter
+
+https://twitter.com/jusrin00/status/1008330774884601856
+
 ### Me at Haskell conversations
 
 https://twitter.com/jusrin00/status/1008102084594585602
