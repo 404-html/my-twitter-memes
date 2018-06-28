@@ -2,6 +2,10 @@
 
 A collection of my dumb ass Twitter memes. Make PRs to fix descriptions, update data, etc.
 
+### PureScript, right?
+
+https://twitter.com/jusrin00/status/1012327213591605249
+
 ### You could do that with PureScript
 
 https://twitter.com/jusrin00/status/1009847634301988865
