@@ -2,6 +2,18 @@
 
 A collection of my dumb ass Twitter memes. Make PRs to fix descriptions, update data, etc.
 
+### look ma, i maed dis
+
+https://twitter.com/jusrin00/status/1016062791596281858
+
+### get better material
+
+https://twitter.com/jusrin00/status/1014142012386435072
+
+### haskell is way better than purescript
+
+https://twitter.com/jusrin00/status/1012677454333464576
+
 ### PureScript, right?
 
 https://twitter.com/jusrin00/status/1012327213591605249
