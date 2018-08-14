@@ -2,6 +2,10 @@
 
 A collection of my dumb ass Twitter memes. Make PRs to fix descriptions, update data, etc.
 
+### multiply both sides by dx
+
+https://twitter.com/jusrin00/status/1029111219066740736
+
 ### look ma, i maed dis
 
 https://twitter.com/jusrin00/status/1016062791596281858
