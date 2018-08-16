@@ -2,6 +2,14 @@
 
 A collection of my dumb ass Twitter memes. Make PRs to fix descriptions, update data, etc.
 
+### 我要行多態性 i want row polymorphism
+
+https://twitter.com/jusrin00/status/1030173319553863680
+
+### Turn it into a RowList again
+
+https://twitter.com/jusrin00/status/1029443978402455553
+
 ### multiply both sides by dx
 
 https://twitter.com/jusrin00/status/1029111219066740736
