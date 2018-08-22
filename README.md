@@ -2,6 +2,10 @@
 
 A collection of my dumb ass Twitter memes. Make PRs to fix descriptions, update data, etc.
 
+### "Doesn't have row polymorphism" - Not my programming language
+
+https://twitter.com/jusrin00/status/1032279476540006400
+
 ### 我要行多態性 i want row polymorphism
 
 https://twitter.com/jusrin00/status/1030173319553863680
