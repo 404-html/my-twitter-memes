@@ -2,6 +2,14 @@
 
 A collection of my dumb ass Twitter memes. Make PRs to fix descriptions, update data, etc.
 
+### Everyone else is falling in implementations on generic reps but me
+
+https://twitter.com/jusrin00/status/1032962206412009472
+
+### Behold, the power of RowList
+
+https://twitter.com/jusrin00/status/1032655407829925888
+
 ### "Doesn't have row polymorphism" - Not my programming language
 
 https://twitter.com/jusrin00/status/1032279476540006400
