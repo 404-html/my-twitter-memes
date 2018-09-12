@@ -2,6 +2,30 @@
 
 A collection of my dumb ass Twitter memes. Make PRs to fix descriptions, update data, etc.
 
+### I want empty instance dictionary elimination
+
+https://twitter.com/jusrin00/status/1037230891972608001
+
+### I must write about datatype generics
+
+https://twitter.com/jusrin00/status/1036154826193887232
+
+### Jajanmen through glasses
+
+https://twitter.com/jusrin00/status/1035432798629322753
+
+### It's not a real library if it isn't named after Asian food
+
+https://twitter.com/jusrin00/status/1039742218007924736
+
+### Why doesn't garbage lang have sum types?
+
+https://twitter.com/jusrin00/status/1038429472226037766
+
+### The only thing you need is Jesus
+
+https://twitter.com/jusrin00/status/1038070161478057984
+
 ### Everyone else is falling in implementations on generic reps but me
 
 https://twitter.com/jusrin00/status/1032962206412009472
