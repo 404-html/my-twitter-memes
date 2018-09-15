@@ -2,6 +2,14 @@
 
 A collection of my dumb ass Twitter memes. Make PRs to fix descriptions, update data, etc.
 
+### I want to have antlers
+
+https://twitter.com/jusrin00/status/1040939416917749760
+
+### Better than the third coming of christ
+
+https://twitter.com/jusrin00/status/1040275375836811264
+
 ### I want empty instance dictionary elimination
 
 https://twitter.com/jusrin00/status/1037230891972608001
