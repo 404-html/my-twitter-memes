@@ -2,6 +2,10 @@
 
 A collection of my dumb ass Twitter memes. Make PRs to fix descriptions, update data, etc.
 
+### Tsukino Mito teaches function composition
+
+https://twitter.com/jusrin00/status/1053419291599650821
+
 ### I want to have antlers
 
 https://twitter.com/jusrin00/status/1040939416917749760
