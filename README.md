@@ -2,6 +2,10 @@
 
 A collection of my dumb ass Twitter memes. Make PRs to fix descriptions, update data, etc.
 
+### The world only PureScript knows PSのみぞ知る世界
+
+https://twitter.com/jusrin00/status/1053763021208723456
+
 ### Tsukino Mito teaches function composition
 
 https://twitter.com/jusrin00/status/1053419291599650821
