@@ -2,6 +2,10 @@
 
 A collection of my dumb ass Twitter memes. Make PRs to fix descriptions, update data, etc.
 
+### I'm thinking of writing a blog post
+
+https://twitter.com/jusrin00/status/1055134557253615618
+
 ### The world only PureScript knows PSのみぞ知る世界
 
 https://twitter.com/jusrin00/status/1053763021208723456
