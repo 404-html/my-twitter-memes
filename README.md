@@ -2,6 +2,18 @@
 
 A collection of my dumb ass Twitter memes. Make PRs to fix descriptions, update data, etc.
 
+### PureScript tooling written in Perl
+
+https://twitter.com/jusrin00/status/1058819430648610816
+
+### Running nix-collect-garbage with texlive shells
+
+https://twitter.com/jusrin00/status/1057057815934746624
+
+### Users puking instance dictionaries
+
+https://twitter.com/jusrin00/status/1056114176505118721
+
 ### I'm thinking of writing a blog post
 
 https://twitter.com/jusrin00/status/1055134557253615618
