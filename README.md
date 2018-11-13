@@ -2,6 +2,10 @@
 
 A collection of my dumb ass Twitter memes. Make PRs to fix descriptions, update data, etc.
 
+### Who knew my perl scripts don't work on toasters?
+
+https://twitter.com/jusrin00/status/1062455854866317319
+
 ### PureScript tooling written in Perl
 
 https://twitter.com/jusrin00/status/1058819430648610816
