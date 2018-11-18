@@ -2,6 +2,18 @@
 
 A collection of my dumb ass Twitter memes. Make PRs to fix descriptions, update data, etc.
 
+### Advent of Justin progress
+
+https://twitter.com/jusrin00/status/1064236476869877761
+
+### Original vs Port
+
+https://twitter.com/jusrin00/status/1063358441866125312
+
+### There seem to be two choices for building Haskell projects...
+
+https://twitter.com/jusrin00/status/1062931772655263745
+
 ### Who knew my perl scripts don't work on toasters?
 
 https://twitter.com/jusrin00/status/1062455854866317319
