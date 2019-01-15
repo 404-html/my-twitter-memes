@@ -2,6 +2,42 @@
 
 A collection of my dumb ass Twitter memes. Make PRs to fix descriptions, update data, etc.
 
+### Fuck Intel
+
+https://twitter.com/jusrin00/status/1082757751254716426
+
+### Record vs Row
+
+https://twitter.com/jusrin00/status/1082058122393513984
+
+### Final Meme 2018
+
+https://twitter.com/jusrin00/status/1079790704547766273
+
+### Incorrect attribution
+
+https://twitter.com/jusrin00/status/1074877205472137216
+
+### Where can I read next
+
+https://twitter.com/jusrin00/status/1074652391826350080
+
+### Why can't I press like multiple times
+
+https://twitter.com/jusrin00/status/1074646202262577152
+
+### Package management
+
+https://twitter.com/jusrin00/status/1071501433705586688
+
+### purescript??? why not my favorite piece of shit??
+
+https://twitter.com/jusrin00/status/1066452325529780229
+
+### Nix-Env build conflicts
+
+https://twitter.com/jusrin00/status/1085139382347202561
+
 ### Advent of Justin progress
 
 https://twitter.com/jusrin00/status/1064236476869877761
