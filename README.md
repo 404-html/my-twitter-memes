@@ -2,6 +2,8 @@
 
 A collection of my dumb ass Twitter memes. Make PRs to fix descriptions, update data, etc.
 
+Sorry, I am actually really bad at keeping this up to date. Please help update this by sending PRs.
+
 ### Fuck Intel
 
 https://twitter.com/jusrin00/status/1082757751254716426
