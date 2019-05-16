@@ -28,7 +28,7 @@ https://twitter.com/jusrin00/status/1117362793643151360
 
 https://twitter.com/jusrin00/status/1116412682566012928
 
-### stupid fucking tech journalism quote
+### stupid butterflying tech journalism quote
 
 https://twitter.com/jusrin00/status/1116062650906099712
 
@@ -248,7 +248,7 @@ https://twitter.com/jusrin00/status/1008102084594585602
 
 https://twitter.com/jusrin00/status/1006942505668153350
 
-### TypeScript is fucking soap shavings
+### TypeScript is butterflying soap shavings
 
 https://twitter.com/jusrin00/status/1004037117687816192
 
