@@ -1,8 +1,76 @@
 # My Twitter Memes
 
-A collection of my dumb ass Twitter memes. Make PRs to fix descriptions, update data, etc.
+A collection of digital garbage.
 
 Sorry, I am actually really bad at keeping this up to date. Please help update this by sending PRs.
+
+### What is she looking at?
+
+https://twitter.com/jusrin00/status/1128059526404554752
+
+### eating purescript
+
+https://twitter.com/jusrin00/status/1126459238358896640
+
+### there's nothing in helsinki
+
+https://twitter.com/jusrin00/status/1123510338794639360
+
+### ps is not for play
+
+https://twitter.com/jusrin00/status/1119182625581617152
+
+### y'all need jesus (java version)
+
+https://twitter.com/jusrin00/status/1117362793643151360
+
+### why im going to japan
+
+https://twitter.com/jusrin00/status/1116412682566012928
+
+### stupid fucking tech journalism quote
+
+https://twitter.com/jusrin00/status/1116062650906099712
+
+### websites
+
+https://twitter.com/jusrin00/status/1114968772845166602
+
+### catchy job title
+
+https://twitter.com/jusrin00/status/1108332386062880768
+
+### olive oil
+
+https://twitter.com/jusrin00/status/1105604265744191490
+
+https://twitter.com/jusrin00/status/1105604101948297216
+
+https://twitter.com/jusrin00/status/1105603859332956165
+
+### ghcjs fans are annoying
+
+https://twitter.com/jusrin00/status/1102551510045650944
+
+### look at me, im pure and functional
+
+https://twitter.com/jusrin00/status/1094339316472524800
+
+### it's a frontend, or backend, or both
+
+https://twitter.com/jusrin00/status/1094190044175159296
+
+### finding out i dont like your shit
+
+https://twitter.com/jusrin00/status/1087792163562373121
+
+### don't know how to get started?
+
+https://twitter.com/jusrin00/status/1085575569213923328
+
+### nix conflicts
+
+https://twitter.com/jusrin00/status/1085139382347202561
 
 ### Fuck Intel
 
